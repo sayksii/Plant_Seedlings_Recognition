@@ -30,5 +30,5 @@ The trained model will be saved in the root directory as `resnet50_plant.pth`.
 
 ---
 
-![Confusion Matrix](images/confusion_matrix.png)
 ![Loss Curve](images/loss_curve.png)
+![Confusion Matrix](images/confusion_matrix.png)
